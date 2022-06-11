@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCart</string>
+    <string name="text_label_1">Магазины</string>
+    <string name="text_label_2">Поиск</string>
+    <string name="text_label_3">Тележка</string>
+
+</resources>
